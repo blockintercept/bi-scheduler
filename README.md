@@ -74,3 +74,8 @@ JDBC parameters for Spring
 ```
 	spring.datasource.* 
 ```
+
+##### Logging
+```
+All Logging is at the console, update the logback.xml to configure logging in a file with the required parameters 
+```
